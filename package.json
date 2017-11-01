@@ -1,0 +1,16 @@
+{
+  "name": "response-sms",
+  "version": "1.0.0",
+  "description": "automatic sms response to messages received at twilio number",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC", 
+  "dependencies": {
+    "twilio": "^3.9.1",
+    "express": "latest",
+  "ejs": "latest"
+  }
+}
